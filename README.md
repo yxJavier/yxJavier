@@ -5,14 +5,6 @@
   Me encanta desarmar cosas para entender cómo funcionan por detrás. Desde la pura lógica de los sistemas y la administración de servidores, hasta descubrir por qué un <code>div</code> decidió arruinar todo mi diseño.
 </p>
 
-<div align="center">
-  <a href="https://github.com/yxJavier">
-    <img src="https://github-readme-stats.vercel.app/api?username=yxJavier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1f12&title_color=D4A017&icon_color=4CAF50&text_color=e8f3ed" alt="Estadísticas de Javier" height="170" />
-  </a>
-  <a href="https://github.com/yxJavier">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxJavier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1f12&title_color=D4A017&text_color=e8f3ed" alt="Lenguajes más usados" height="170" />
-  </a>
-</div>
 
 ---
 
